@@ -27,6 +27,10 @@ The main goal is to extract actionable insights to enhance employee retention, o
 
 5.Dashboard Actions: Enabled interactivity like hover-to-view and drill-down for detailed analysis.
 
+## Dashboard:
+
+![image alt](https://github.com/M-Parvati/HR_ANALYTICS_USING_TABLEAU/blob/93bdbf256e988b229a4d57b33522577bfe835516/HR_DASHBOARD_IMAGE.png)
+
 ## Key Insights :
 
 1.High Attrition: Certain departments like Sales and Support show higher attrition compared to others.
